@@ -1,0 +1,12 @@
+[25-Aug-2021 21:12:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php on line 3
+[29-Nov-2021 00:30:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php on line 3
+[18-Dec-2021 14:54:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Exception/Transport/cURL.php on line 3

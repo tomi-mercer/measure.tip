@@ -1,0 +1,36 @@
+[13-Aug-2021 22:15:11 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php on line 19
+[15-Aug-2021 09:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php on line 19
+[18-Aug-2021 16:44:16 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php on line 19
+[17-Nov-2021 00:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php on line 19
+[18-Nov-2021 09:45:02 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php on line 19
+[15-Dec-2021 15:56:57 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php on line 19
+[15-Dec-2021 15:57:06 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php on line 19
+[15-Dec-2021 16:40:29 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/MO.php on line 19
+[15-Dec-2021 16:40:34 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\GettextTranslations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/PO.php on line 19

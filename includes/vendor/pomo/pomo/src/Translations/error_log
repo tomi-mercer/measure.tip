@@ -1,0 +1,36 @@
+[19-Aug-2021 22:14:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php on line 14
+[20-Aug-2021 01:21:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php on line 14
+[21-Aug-2021 21:06:20 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\Translations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php on line 19
+[21-Nov-2021 14:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\Translations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php on line 19
+[23-Nov-2021 00:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php on line 14
+[23-Nov-2021 06:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php on line 14
+[17-Dec-2021 11:01:41 UTC] PHP Fatal error:  Uncaught Error: Class 'POMO\Translations\Translations' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/GettextTranslations.php on line 19
+[17-Dec-2021 11:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/NOOPTranslations.php on line 14
+[17-Dec-2021 11:02:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'POMO\Translations\TranslationsInterface' not found in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/pomo/pomo/src/Translations/Translations.php on line 14

@@ -1,0 +1,16 @@
+[24-Aug-2021 07:13:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'MaxMind\WebService\Http\Request' not found in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php on line 12
+[27-Aug-2021 14:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'MaxMind\WebService\Http\Request' not found in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php on line 12
+[27-Nov-2021 10:44:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'MaxMind\WebService\Http\Request' not found in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php on line 12
+[18-Dec-2021 23:53:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'MaxMind\WebService\Http\Request' not found in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/maxmind/web-service-common/src/WebService/Http/CurlRequest.php on line 12

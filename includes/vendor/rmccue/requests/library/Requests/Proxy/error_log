@@ -1,0 +1,12 @@
+[23-Aug-2021 12:43:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Proxy' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php on line 19
+[23-Nov-2021 07:24:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Proxy' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php on line 19
+[18-Dec-2021 14:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Proxy' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Proxy/HTTP.php on line 19

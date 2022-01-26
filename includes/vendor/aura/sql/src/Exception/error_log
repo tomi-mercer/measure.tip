@@ -1,0 +1,48 @@
+[10-Aug-2021 21:21:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php on line 21
+[10-Aug-2021 22:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php on line 20
+[11-Aug-2021 02:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php on line 21
+[12-Aug-2021 13:03:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php on line 20
+[10-Nov-2021 23:23:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php on line 21
+[12-Nov-2021 09:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php on line 20
+[14-Nov-2021 02:36:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php on line 21
+[14-Nov-2021 04:11:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php on line 20
+[16-Dec-2021 13:52:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotBindValue.php on line 21
+[16-Dec-2021 13:52:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/CannotDisconnect.php on line 21
+[16-Dec-2021 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/ConnectionNotFound.php on line 20
+[16-Dec-2021 13:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Exception' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Exception/MissingParameter.php on line 20

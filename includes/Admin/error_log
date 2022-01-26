@@ -1,0 +1,12 @@
+[01-Aug-2021 14:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Profiler' not found in /home/meastipadmin/public_html/includes/Admin/Logger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Admin/Logger.php on line 13
+[05-Nov-2021 02:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Profiler' not found in /home/meastipadmin/public_html/includes/Admin/Logger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Admin/Logger.php on line 13
+[12-Dec-2021 16:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Profiler' not found in /home/meastipadmin/public_html/includes/Admin/Logger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Admin/Logger.php on line 13

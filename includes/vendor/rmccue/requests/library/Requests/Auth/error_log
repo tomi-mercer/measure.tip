@@ -1,0 +1,12 @@
+[22-Aug-2021 10:49:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php on line 18
+[25-Nov-2021 13:19:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php on line 18
+[18-Dec-2021 14:53:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Auth/Basic.php on line 18

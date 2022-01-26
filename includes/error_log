@@ -1,0 +1,32 @@
+[02-Aug-2021 15:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[23-Sep-2021 15:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[24-Sep-2021 09:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[08-Oct-2021 14:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[29-Oct-2021 02:32:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[02-Nov-2021 16:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[10-Dec-2021 22:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46
+[26-Dec-2021 13:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function yourls_add_action() in /home/meastipadmin/public_html/includes/functions-kses.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/functions-kses.php on line 46

@@ -1,0 +1,52 @@
+[07-Aug-2021 21:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ExtendedPdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php on line 23
+[08-Aug-2021 08:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ConnectionLocatorInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php on line 18
+[09-Aug-2021 19:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ProfilerInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php on line 18
+[10-Aug-2021 01:07:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\PdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php on line 23
+[07-Nov-2021 19:03:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ExtendedPdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php on line 23
+[08-Nov-2021 06:05:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ConnectionLocatorInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php on line 18
+[09-Nov-2021 16:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ProfilerInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php on line 18
+[13-Nov-2021 05:27:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\PdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php on line 23
+[16-Nov-2021 12:07:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\PdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php on line 23
+[16-Dec-2021 13:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ConnectionLocatorInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ConnectionLocator.php on line 18
+[16-Dec-2021 13:53:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ExtendedPdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdo.php on line 23
+[16-Dec-2021 13:53:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\PdoInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/ExtendedPdoInterface.php on line 23
+[16-Dec-2021 13:54:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Aura\Sql\ProfilerInterface' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Profiler.php on line 18

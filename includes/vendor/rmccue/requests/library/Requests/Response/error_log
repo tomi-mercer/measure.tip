@@ -1,0 +1,16 @@
+[24-Aug-2021 00:19:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php on line 13
+[27-Aug-2021 07:20:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php on line 13
+[27-Nov-2021 03:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php on line 13
+[18-Dec-2021 14:54:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/rmccue/requests/library/Requests/Response/Headers.php on line 13

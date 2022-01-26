@@ -1,0 +1,68 @@
+[10-Aug-2021 02:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php on line 21
+[10-Aug-2021 06:00:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php on line 21
+[10-Aug-2021 18:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php on line 21
+[10-Aug-2021 21:21:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php on line 21
+[10-Aug-2021 23:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php on line 21
+[13-Nov-2021 07:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php on line 21
+[13-Nov-2021 10:17:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php on line 21
+[14-Nov-2021 00:04:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php on line 21
+[14-Nov-2021 02:36:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php on line 21
+[14-Nov-2021 04:57:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php on line 21
+[16-Nov-2021 13:48:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php on line 21
+[16-Nov-2021 17:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php on line 21
+[16-Dec-2021 13:53:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AllIterator.php on line 21
+[16-Dec-2021 13:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/AssocIterator.php on line 21
+[16-Dec-2021 13:53:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ColIterator.php on line 21
+[16-Dec-2021 13:53:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/ObjectsIterator.php on line 21
+[16-Dec-2021 13:53:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\Iterator\AbstractIterator' not found in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/aura/sql/src/Iterator/PairsIterator.php on line 21

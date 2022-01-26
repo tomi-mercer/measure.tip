@@ -1,0 +1,16 @@
+[18-Aug-2021 07:03:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'GeoIp2\ProviderInterface' not found in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php on line 44
+[21-Aug-2021 14:37:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'GeoIp2\ProviderInterface' not found in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php on line 44
+[21-Nov-2021 07:38:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'GeoIp2\ProviderInterface' not found in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php on line 44
+[16-Dec-2021 13:57:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'GeoIp2\ProviderInterface' not found in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/vendor/geoip2/geoip2/src/WebService/Client.php on line 44

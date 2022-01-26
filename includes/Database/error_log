@@ -1,0 +1,12 @@
+[01-Aug-2021 07:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\ExtendedPdo' not found in /home/meastipadmin/public_html/includes/Database/YDB.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Database/YDB.php on line 20
+[04-Nov-2021 19:30:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\ExtendedPdo' not found in /home/meastipadmin/public_html/includes/Database/YDB.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Database/YDB.php on line 20
+[12-Dec-2021 16:07:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Aura\Sql\ExtendedPdo' not found in /home/meastipadmin/public_html/includes/Database/YDB.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/meastipadmin/public_html/includes/Database/YDB.php on line 20
