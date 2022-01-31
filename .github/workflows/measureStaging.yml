@@ -2,7 +2,7 @@ name: Publish Website to measure.tip
 on:
   push:
     branches:
-      - main
+      - staging
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.measure.tips
-        username: githubmain@measure.tips
-        password: ${{ secrets.FTP_PASSWORD }}
+        username: githubstaging@measure.tips
+        password: ${{ secrets.FTP_PASSWORD_STAGING }}
         port: 21
