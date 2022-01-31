@@ -1,0 +1,17 @@
+[31-Jan-2022 07:16:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'meastipadmin_staging.measure_staging_options' doesn't exist in /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php:558
+Stack trace:
+#0 /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php(558): PDOStatement->execute()
+#1 /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php(412): Aura\Sql\AbstractExtendedPdo->perform('SELECT option_v...', Array)
+#2 /home/meastipadmin/public_html/staging/includes/Database/Options.php(110): Aura\Sql\AbstractExtendedPdo->fetchOne('SELECT option_v...', Array)
+#3 /home/meastipadmin/public_html/staging/includes/functions-options.php(25): YOURLS\Database\Options->get('version', false)
+#4 /home/meastipadmin/public_html/staging/includes/functions.php(501): yourls_get_option('version')
+#5 /home/meastipadmin/public_html/staging/includes/functions.php(483): yourls_get_current_version_from_sql in /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php on line 558
+[31-Jan-2022 07:25:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'meastipadmin_staging.meastipa_options' doesn't exist in /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php:558
+Stack trace:
+#0 /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php(558): PDOStatement->execute()
+#1 /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php(412): Aura\Sql\AbstractExtendedPdo->perform('SELECT option_v...', Array)
+#2 /home/meastipadmin/public_html/staging/includes/Database/Options.php(110): Aura\Sql\AbstractExtendedPdo->fetchOne('SELECT option_v...', Array)
+#3 /home/meastipadmin/public_html/staging/includes/functions-options.php(25): YOURLS\Database\Options->get('version', false)
+#4 /home/meastipadmin/public_html/staging/includes/functions.php(501): yourls_get_option('version')
+#5 /home/meastipadmin/public_html/staging/includes/functions.php(483): yourls_get_current_version_from_sql()
+#6 / in /home/meastipadmin/public_html/staging/includes/vendor/aura/sql/src/AbstractExtendedPdo.php on line 558

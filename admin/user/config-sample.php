@@ -11,14 +11,14 @@
  */
 
 /** MySQL database username */
-define( 'YOURLS_DB_USER', 'meastipadmin_measuretipstaging' );
+define( 'YOURLS_DB_USER', 'your db user name' );
 
 /** MySQL database password */
-define( 'YOURLS_DB_PASS', '3l&u=#{JQV+c' );
+define( 'YOURLS_DB_PASS', 'your db password' );
 
 /** The name of the database for YOURLS
  ** Use lower case letters [a-z], digits [0-9] and underscores [_] only */
-define( 'YOURLS_DB_NAME', 'meastipadmin_staging' );
+define( 'YOURLS_DB_NAME', 'yourls' );
 
 /** MySQL hostname.
  ** If using a non standard port, specify it like 'hostname:port', e.g. 'localhost:9999' or '127.0.0.1:666' */
@@ -27,7 +27,7 @@ define( 'YOURLS_DB_HOST', 'localhost' );
 /** MySQL tables prefix
  ** YOURLS will create tables using this prefix (eg `yourls_url`, `yourls_options`, ...)
  ** Use lower case letters [a-z], digits [0-9] and underscores [_] only */
-define( 'YOURLS_DB_PREFIX', 'meastipa_' );
+define( 'YOURLS_DB_PREFIX', 'yourls_' );
 
 /*
  ** Site options
@@ -37,7 +37,7 @@ define( 'YOURLS_DB_PREFIX', 'meastipa_' );
  ** All lowercase, no trailing slash at the end.
  ** If you define it to "http://sho.rt", don't use "http://www.sho.rt" in your browser (and vice-versa)
  ** To use an IDN domain (eg http://héhé.com), write its ascii form here (eg http://xn--hh-bjab.com) */
-define( 'YOURLS_SITE', 'http://measure.tips/staging' );
+define( 'YOURLS_SITE', 'http://your-own-domain-here.com' );
 
 /** YOURLS language
  ** Change this setting to use a translation file for your language, instead of the default English.
@@ -57,13 +57,13 @@ define( 'YOURLS_PRIVATE', true );
 
 /** A random secret hash used to encrypt cookies. You don't have to remember it, make it long and complicated
  ** Hint: copy from http://yourls.org/cookie */
-define( 'YOURLS_COOKIEKEY', 'YL7NN#P6UF3[7G4VOcx]gVSjDRnjpm|2Q8cwK~#E' );
+define( 'YOURLS_COOKIEKEY', 'modify this text with something random' );
 
 /** Username(s) and password(s) allowed to access the site. Passwords either in plain text or as encrypted hashes
  ** YOURLS will auto encrypt plain text passwords in this file
  ** Read http://yourls.org/userpassword for more information */
 $yourls_user_passwords = [
-	'measuretips_admin' => 'phpass:!2a!08!FdIQ1x43S2u09saKZHCGRen8T05R6ZnnYPrg8IKQrlrEW8VPRgf.q' /* Password encrypted by YOURLS */ ,
+	'username' => 'password',
 	// 'username2' => 'password2',
 	// You can have one or more 'login'=>'password' lines
 ];
